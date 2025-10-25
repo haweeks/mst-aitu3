@@ -1,0 +1,5 @@
+graph,algorithm,vertices,edges,total,ops
+small_example,Prim,4,5,4,5000,10
+small_example,Kruskal,4,5,4,5000,3
+medium_example,Prim,12,15,29,5000,30
+medium_example,Kruskal,12,15,29,5000,12
