@@ -9,10 +9,10 @@ Implement and compare two algorithms for finding a minimum spanning tree (Prim a
 
 Input data
 Input: a JSON file input.json containing several graphs:
-10 small (4-6 vertices),
+5 small (4-6 vertices),
 10 medium (10-15 vertices),
-10-15 large (20-30 vertices and more).
-5 Extra large ()
+10 large (20-30 vertices and more).
+3 Extra large ()
 Each graph: a list of vertices and edges with weights (the cost of building a road).
 
 Implementation
